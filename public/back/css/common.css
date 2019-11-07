@@ -133,8 +133,10 @@ ul{
   width: 48%;
   height: 400px;
 }
-.echarts_1{
-  
+.lt_main .lt_content th,
+.lt_main .lt_content td{
+  text-align: center;
+  vertical-align: middle;
 }
 
 
